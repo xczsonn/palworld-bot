@@ -1,11 +1,1 @@
-{
-    "PALWORLD_SERVERS": {
-        "RohMooHyun": {
-            "RCON_HOST": "RohMooHyun.iptime.org",
-            "RCON_PORT": 5188,
-            "RCON_PASS": "alswl4419",
-            "SERVER_PORT": 523,
-            "QUERY_CHANNEL": 1200659056235401318
-        }
-    }
-}
+
